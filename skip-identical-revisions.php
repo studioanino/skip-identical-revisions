@@ -5,11 +5,11 @@ Plugin URI: http://studioanino.com/
 Description: Disables saving a post revision if the title, content and excerpt fields are all unmodified.
 Author: John B. Fakorede
 Author URI: http://studioanino.com/
-Version: 1.0
+Version: 1.1
 License: GPL
 Notes:
 	* To-do: Add revision-related message to save notification
-	* To-do: Workaround for visual editor auto-formatting when saving poorly indented, fully marked-up content
+	* To-do: Workaround for visual editor auto-formatting when saving poorly indented and/or heavily marked-up content
 */
 
 

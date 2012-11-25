@@ -32,7 +32,7 @@ OR: In WordPress admin go to `Plugins > Add New`, search by plugin name, install
 
 == Changelog ==
 
-= 1.1 - November 24, 2011 =
+= 1.1 - November 24, 2012 =
 * Tested up to 3.4.2
 * Updated README
 

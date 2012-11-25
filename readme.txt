@@ -3,7 +3,7 @@ Contributors: johnfakorede
 Tags: revisions
 Requires at least: 2.6.0
 Tested up to: 3.4.2
-Stable tag: trunk
+Stable tag: 1.1
 
 Disables saving a post revision if the title, content and excerpt fields are all unmodified.
 
